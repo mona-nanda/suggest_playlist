@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vdas635e6FaZBtCSOf7GPDGiBM+9w97z9vPo9iOvRHih4j4iTYR009TgUfJ5pbSHcxT9kcesf1qkOeSF9ZJibQ==",
+  "success": true,
+  "projectFilePath": "/Users/mona.nandwani/Documents/suggestPlaylist/suggestPlaylist.csproj",
+  "expectedPackageFiles": [
+    "/Users/mona.nandwani/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
